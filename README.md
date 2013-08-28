@@ -1,7 +1,7 @@
-Headless Puppet Rbenv
+Headless Puppet Ruby
 =================
 
-A headless puppet repo to get Rbenv running on your server with Puppet
+A headless puppet repo to get Ruby compiled from source on your server with Puppet
 
 ## Pre-requisites
 
